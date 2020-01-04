@@ -1,0 +1,18 @@
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+D:\BITM\Project\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+D:\BITM\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
+C:\Users\Personal\Desktop\Project Testing\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll.config
+C:\Users\Personal\Desktop\Project Testing\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.dll
+C:\Users\Personal\Desktop\Project Testing\Project Testing\StockManagementProjectApp\StockManagementProjectApp\bin\StockManagementProjectApp.pdb
+C:\Users\Personal\Desktop\Project Testing\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.csprojResolveAssemblyReference.cache
+C:\Users\Personal\Desktop\Project Testing\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.dll
+C:\Users\Personal\Desktop\Project Testing\Project Testing\StockManagementProjectApp\StockManagementProjectApp\obj\Debug\StockManagementProjectApp.pdb
